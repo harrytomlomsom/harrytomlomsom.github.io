@@ -14,7 +14,7 @@ h1{
 ul{
     padding-left: 0px;
     padding-bottom: 50px;
-    width: 50%;
+    width: 100%;
     margin: auto;
     list-style-type: none;
     border-bottom-
@@ -43,12 +43,13 @@ li a:hover{
 
 #sidebar{
     padding-top: 12px;
+    padding-right: 10px;
     float: right;
     margin: auto;    
 }
 #footer{
     
-    width: 75%;
+    width: 60%;
     margin: auto;
     text-align: center;
 }
@@ -57,7 +58,7 @@ p{
      
 }
 .blogpost{
-    width: 50%;   
+    width: 60%;  
     margin: auto;
     padding: 0px 25px 10px 25px;
     outline: solid 2px black;
