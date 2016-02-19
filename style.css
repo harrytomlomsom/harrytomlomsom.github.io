@@ -42,10 +42,11 @@ li a:hover{
 }
 
 #sidebar{
+    width: 20%;
     padding-top: 12px;
     padding-right: 10px;
     float: right;
-    margin: auto;    
+        
 }
 #footer{
     
@@ -57,11 +58,18 @@ li a:hover{
 p{
      
 }
-.blogpost{
-    width: 60%;  
+#blog{
+    float: right;
+    width: 60%;
     margin: auto;
-    padding: 0px 25px 10px 25px;
+    padding: 0px 25px;
+    
+}
+.blogpost{
+    
+    padding: 0px 25px 5px 25px;
     outline: solid 2px black;
+    word-wrap: break-word;
     }
 .blogpost h2{
     font-family: monospace;
