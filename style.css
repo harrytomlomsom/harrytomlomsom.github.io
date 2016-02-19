@@ -1,0 +1,62 @@
+body {
+    background-color: pink;
+}
+h1{
+    font-family: monospace;
+    text-align: center;
+    margin: auto;
+    color: lightblue;
+    padding-bottom: 50px;
+}
+ul{
+    padding-left: 0px;
+    padding-bottom: 50px;
+    width: 50%;
+    margin: auto;
+    list-style-type: none;
+
+}
+li {
+    
+    float: left;
+    padding: 2px;
+    
+}
+li a {
+    color: white;
+    text-align: center;
+    padding: 1px 16px;
+    text-decoration: none;
+    background-color: black;
+    
+}
+li a:hover{
+    background-color: aqua;
+}
+#nav{
+    display: table;
+    margin: auto;
+}
+
+#twitterboy{
+    
+    float: right;
+        
+}
+p{
+     
+}
+.blogpost{
+    width: 50%;   
+    margin: auto;
+    padding:0px 25px;
+    border: solid 2px black;
+}
+.blogpost h2{
+    font-family: monospace;
+}
+.blogpost p{
+    font-family: monospace;
+    font-size: 20px;
+    text-align: justify
+}
